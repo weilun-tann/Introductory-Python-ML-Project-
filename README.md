@@ -1,7 +1,2 @@
 # Introductory-Python-ML-Project-
-An introductory Machine Learning Project performed on data extracted from the World Happiness Reports from 2012-2019 <br>
-Questions addressed include : <br>
-1. Which are the happiest countries in 2019, as well as an analysis of the rankings through the past the decade <br>
-2. Fitting an ARIMA model to predict the Happiness Index of Singapore in the 2020 World Happiness Report <br>
-3. Identifying the top predictors of happiness 
-
+![World Happiness Analytics 2019](https://user-images.githubusercontent.com/30169903/60001436-0afc9980-9699-11e9-85d7-af72a6c62b29.JPG)
